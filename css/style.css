@@ -816,9 +816,9 @@ span.border.two:after {
 /*-- footer --*/
 .footer {
     background: url(../images/Jatan1.jpg) no-repeat center;
-    background-size: cover;
+    background-size: contain;
     margin-top:5px;
-    heigth:250px;
+    heigth:200px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
